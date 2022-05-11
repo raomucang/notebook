@@ -1,0 +1,20 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raomucang/notebook.git"
+  },
+  "author": "roamucang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raomucang/notebook/issues"
+  },
+  "homepage": "https://github.com/raomucang/notebook#readme"
+}
